@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Piyush Chaudhari 👋<br>I’m a passionate developer interested in building practical and efficient software solutions.<br><br>🔭 Currently working on: Web development & system-based projects<br>🌱 Learning: JavaScript, Backend Development, and System Design<br>💡 Interests: User Access Systems, Employee Management Systems, and UI Design<br>🛠️ Tech Stack: HTML, CSS, JavaScript<br>🚀 Goal: To become a skilled full-stack developer and contribute to real-world projects<br>📫 How to reach me: piyushchaudhari5535@gmail.com
+Hi, I’m Piyush Chaudhari 👋<br>I’m a passionate developer interested in building practical and efficient software solutions.<br><br>🔭 Currently working on: Web development & system-based projects<br>🌱 Learning: JavaScript, Backend Development, and System Design<br>💡 Interests: User Access Systems, Employee Management Systems, and UI Design<br>🛠️ Tech Stack: HTML, CSS, JavaScript<br>🚀 Goal: To become a skilled full-stack developer and contribute to real-world projects<br>📫 How to reach me:  piyushchaudhari5535@gmail.com
 
 
 ## 🌐 Socials:
